@@ -20,6 +20,9 @@ https://drive.google.com/file/d/1_6eG51ee8WK2oiPQBDJ46xjwAqGopetd/view?usp=shari
 ![Screenshot 2025-07-09 114140](https://github.com/user-attachments/assets/2fb87ab1-26ca-4ad0-92da-c59b0a9dfdb2)
 ![image](https://github.com/user-attachments/assets/841019a8-cc94-4c3f-b27c-86df243b825a)
 
+Accessible only to ABES Tenant :
+https://app.powerbi.com/links/e7s3Sxb1jR?ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&pbi_source=linkShare&bookmarkGuid=10215f1c-f8a1-4192-b67e-4c998d20de7b
+
 
 ## 📸 Key Features
 
