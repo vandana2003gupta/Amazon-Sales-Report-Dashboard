@@ -14,6 +14,7 @@ The dashboard helps uncover insights such as:
 ## Demo Link:
 https://drive.google.com/file/d/1_6eG51ee8WK2oiPQBDJ46xjwAqGopetd/view?usp=sharing
 
+![image](https://github.com/user-attachments/assets/ba1e6583-394a-4c0f-be86-9eaaee6e0ea6)
 ![Screenshot 2025-07-09 113809](https://github.com/user-attachments/assets/0f7d02f9-60c8-420d-b1da-d9fb7947d5f1)
 ![Screenshot 2025-07-09 113937](https://github.com/user-attachments/assets/f4d3c341-7811-410d-b8c3-d980a6e86406)
 ![Screenshot 2025-07-09 114023](https://github.com/user-attachments/assets/d5a62e4b-2124-4fc7-94eb-0f86c67a3754)
