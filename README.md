@@ -33,24 +33,24 @@ https://app.powerbi.com/links/e7s3Sxb1jR?ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c
 - Monthly Trend Analysis
 - 📊 Dynamic visuals with filters and slicers
 
-## 🧠 DAX Highlights
+## DAX Highlights
 
 - `All_Overall_Sale`: Shows sales ignoring the category filter
 - `Order_Counts`: Counts delivered orders; replaces blank with 0
 - `Seller_Count`: Counts sellers with "Delivered" orders only
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Data Modeling & Cleaning
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/vandana2003gupta/Amazon-Sales-Report-Dashboard.git
-   🚀 Getting Started
+   Getting Started
 
 2. Open the file Amazon Sales Report.pbix in Power BI Desktop
 3. Interact with the report or customize it for your own analysis
