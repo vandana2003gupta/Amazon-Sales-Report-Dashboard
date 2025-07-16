@@ -1,9 +1,9 @@
-# 📊 Amazon Sales Report Dashboard
+# Amazon Sales Report Dashboard
 
 This Power BI project visualizes and analyzes sales data from Amazon's fashion category. 
 It offers a clear overview of sales trends, seller performance, order statuses, and product category analysis to support data-driven decision-making.
 
-## 🔍 Overview
+## Overview
 
 The dashboard helps uncover insights such as:
 - Total sales and seller contributions
