@@ -25,13 +25,13 @@ Accessible only to ABES Tenant :
 https://app.powerbi.com/links/e7s3Sxb1jR?ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&pbi_source=linkShare&bookmarkGuid=10215f1c-f8a1-4192-b67e-4c998d20de7b
 
 
-## 📸 Key Features
+## Key Features
 
 - KPI Cards: Overall Sales, Seller Count, Order Count
 - Delivery Status filtering (e.g. Delivered)
 - Product Category-wise Breakdown
 - Monthly Trend Analysis
-- 📊 Dynamic visuals with filters and slicers
+- Dynamic visuals with filters and slicers
 
 ## DAX Highlights
 
@@ -39,7 +39,7 @@ https://app.powerbi.com/links/e7s3Sxb1jR?ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c
 - `Order_Counts`: Counts delivered orders; replaces blank with 0
 - `Seller_Count`: Counts sellers with "Delivered" orders only
 
-## 🛠Tools Used
+## Tools Used
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
